@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "692162681835",
+    "project_id": "fir-login-b9271",
+    "storage_bucket": "fir-login-b9271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692162681835:android:77f669c9f925bab20b57ae",
+        "android_client_info": {
+          "package_name": "com.example.aula3eudorado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692162681835-o2mlmoqov1sbj72q788uko7nv3i72j4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKvjwvngxIEdLbvpAe42Eqsjfb_7eb56o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692162681835-o2mlmoqov1sbj72q788uko7nv3i72j4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692162681835:android:f9b9b72d4185c3410b57ae",
+        "android_client_info": {
+          "package_name": "com.izaque.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692162681835-o2mlmoqov1sbj72q788uko7nv3i72j4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKvjwvngxIEdLbvpAe42Eqsjfb_7eb56o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692162681835-o2mlmoqov1sbj72q788uko7nv3i72j4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
